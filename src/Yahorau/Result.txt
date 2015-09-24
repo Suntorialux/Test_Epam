@@ -1,0 +1,11 @@
+Circle direct		volume=6.275	mass=5710.25	density=910.0	Engine oil	radius Bottom=145.0	Height=100.0
+Circle incline		volume=6.718	mass=4971.32	density=740.0	Gasoline	radius Bottom=145.0	radius Top=155.0	Height=100.0
+Hexagon incline		volume=5.383	mass=3983.421	density=740.0	Gasoline	lenght A Bottom =135.0	lenght A Top = 135.0	Height=100.0
+Rectangle direct	volume=1.748	mass=1293.52	density=740.0	Gasoline	size A=115.0	size B=160.0	Height=100.0
+Oval direct		volume=0.739	mass=672.491	density=910.0	Engine oil	radius A =45.0	radius B=55.0	Height=100.0
+Trapeze incline		volume=0.398	mass=294.521	density=740.0	Gasoline	size A bottom=150.0	size B bottom=170.0	height trapeze bottom=20.0	size A top=160.0	size B top=170.0	height trapeze top=30.0	Height=100.0
+Trapeze direct		volume=0.169	mass=138.581	density=820.0	Kerosene	size A=34.0	size B=45.0	height trapeze=45.0	Height=100.0
+Square incline		volume=0.156	mass=127.921	density=820.0	Kerosene	size A Bottom=30.0	size A Top=50.0	Height=100.0
+Hexagon direct		volume=0.155	mass=114.701	density=740.0	Gasoline	lenght A Bottom =25.0	lenght A Top = 25.0	Height=100.0
+Square direct		volume=0.152	mass=112.481	density=740.0	Gasoline	size A=40.0	Height=100.0
+Min mass gasoline=112.481
